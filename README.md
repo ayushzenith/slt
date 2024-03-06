@@ -2,6 +2,7 @@
 
 This code is based on the implementation of [Sign Language Transformers: Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation](https://www.cihancamgoz.com/pub/camgoz2020cvpr.pdf), available [here](https://github.com/neccam/slt) and [Frozen Pretrained Transformers for Neural Sign Language Translation](https://users.ugent.be/~mcdcoste/assets/SLT_DeCoster2021Frozen.pdf), available [here](https://github.com/m-decoster/fpt4slt).
 
+A presentation of the works can be found [here](https://drive.google.com/file/d/1naHmNbZW4kz7dAukyHk8OLXoj7-JXsqJ/view?usp=share_link)
  
 ## Requirements
 * Download the feature files using the `data/download.sh` script into the data directory.
