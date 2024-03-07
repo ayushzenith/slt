@@ -28,6 +28,8 @@ For the mBART-50 model, you will first need to tokenize the corpus using the mBA
 
 #### Training time on a RTX3070 not including evaluation time
 
+## Results 
+
 ### DeCoster - 2021 - bert2rnd
 `python -m signjoey train configs\lc\s2gt\phoenix14t_bert2rnd_50.yaml`
 
